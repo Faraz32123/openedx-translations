@@ -5118,7 +5118,7 @@ msgstr ""
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:449
 msgid "Course Info"
-msgstr ""
+msgstr "Module Info"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:471
 #, python-brace-format
@@ -21864,7 +21864,7 @@ msgid "Paid Bootcamp"
 msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:74
-msgid "Basic Course Information"
+msgid "Basic Module Information"
 msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:78
@@ -22357,7 +22357,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:119
 msgid "View Course in Studio"
-msgstr ""
+msgstr "View Module in Studio"
 
 #: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:5
 #: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:17
