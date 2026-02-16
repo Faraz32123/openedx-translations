@@ -25192,3 +25192,258 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/index.html:28
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:69
+msgid "Search for a course"
+msgstr "Search for a module"
+
+#: tutorindigo/templates/indigo/lms/templates/index.html:36
+msgid "Search"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/blog.html:6
+#: tutorindigo/templates/indigo/lms/templates/static_templates/blog.html:11
+msgid "Blog"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/blog.html:14
+#: tutorindigo/templates/indigo/lms/templates/static_templates/help.html:14
+#: tutorindigo/templates/indigo/lms/templates/static_templates/about.html:14
+#: tutorindigo/templates/indigo/lms/templates/static_templates/contact.html:14
+#: tutorindigo/templates/indigo/lms/templates/static_templates/tos.html:14
+#: tutorindigo/templates/indigo/lms/templates/static_templates/privacy.html:16
+#: tutorindigo/templates/indigo/lms/templates/static_templates/donate.html:14
+msgid "This page left intentionally blank. Feel free to add your own content."
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/help.html:6
+#: tutorindigo/templates/indigo/lms/templates/static_templates/help.html:11
+msgid "Help"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/about.html:6
+#: tutorindigo/templates/indigo/lms/templates/static_templates/about.html:11
+msgid "About"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/contact.html:6
+msgid "Contact Us"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/contact.html:11
+msgid "Contact"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/tos.html:6
+#: tutorindigo/templates/indigo/lms/templates/static_templates/tos.html:11
+msgid "Terms of Service"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/privacy.html:8
+#: tutorindigo/templates/indigo/lms/templates/static_templates/privacy.html:13
+msgid "Privacy Policy"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/static_templates/donate.html:6
+#: tutorindigo/templates/indigo/lms/templates/static_templates/donate.html:11
+msgid "Donate"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:35
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:30
+msgid "Courses"
+msgstr "Modules"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:60
+msgid "Refine Your Search"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:88
+msgid "Already Enrolled"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:93
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:111
+msgid "View Course"
+msgstr "View Module"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:99
+msgid "Course is full"
+msgstr "Module is full"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:102
+msgid "Enrollment in this course is by invitation only"
+msgstr "Enrollment in this module is by invitation only"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:107
+msgid "Enrollment is Closed"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:126
+msgid "Enroll Now"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:141
+msgid "View About Page in studio"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:162
+msgid "Course Number"
+msgstr "Module Number"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:171
+msgid "Classes Start"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:193
+msgid "Classes End"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:206
+msgid "Estimated Effort"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:214
+msgid "Price"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:223
+msgid "Prerequisites"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:227
+#, python-brace-format
+msgid ""
+"You must successfully complete {link_start}{prc_display}{link_end} before "
+"you begin this course."
+msgstr ""
+"You must successfully complete {link_start}{prc_display}{link_end} before "
+"you begin this module."
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:237
+msgid "Requirements"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:248
+msgid "Additional Resources"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:14
+msgid "Share with friends and family!"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:27
+#, python-brace-format
+msgid "I just enrolled in {number} {title} through {account} {url}"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:38
+#, python-brace-format
+msgid "I just enrolled in {number} {title} through {platform} {url}"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:45
+#, python-brace-format
+msgid "Take a course with {platform} online"
+msgstr "Take a module with {platform} online"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:56
+msgid "Tweet that you've enrolled in this course"
+msgstr "Tweet that you've enrolled in this module"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:62
+msgid "Post a Facebook message to say you've enrolled in this course"
+msgstr "Post a Facebook message to say you've enrolled in this module"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:68
+msgid "Email someone to say you've enrolled in this course"
+msgstr "Email someone to say you've enrolled in this module"
+
+#: tutorindigo/templates/indigo/lms/templates/course.html:22
+msgid "Learn More"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/course.html:34
+#: tutorindigo/templates/indigo/lms/templates/course.html:48
+#: tutorindigo/templates/indigo/lms/templates/course.html:50
+msgid "Starts"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-authenticated.html:35
+msgid "My Courses"
+msgstr "My Modules"
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-authenticated.html:42
+msgid "Programs"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-authenticated.html:51
+msgid "Discover"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:32
+#: tutorindigo/templates/indigo/lms/templates/header/header.html:60
+msgid "Options Menu"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:35
+#: tutorindigo/templates/indigo/lms/templates/header/header.html:73
+msgid "More Options"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:37
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:39
+msgid "Dashboard"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:42
+msgid "Profile"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:43
+msgid "Account"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:45
+msgid "Order History"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/user_dropdown.html:47
+msgid "Sign Out"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/header.html:79
+#, python-brace-format
+msgid ""
+"{begin_strong}Warning:{end_strong} Your browser is not fully supported. We "
+"strongly recommend using {chrome_link} or {ff_link}."
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/header.html:102
+msgid "Choose Language"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:22
+msgid "Supplemental Links"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:26
+msgid "How it Works"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:34
+msgid "Schools"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:40
+msgid "Discover courses"
+msgstr "Discover modules"
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:51
+msgid "Register for free"
+msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:55
+msgid "Sign in"
+msgstr ""
