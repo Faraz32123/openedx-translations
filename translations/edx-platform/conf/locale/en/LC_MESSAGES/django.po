@@ -25192,3 +25192,64 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: tutorindigo/templates/indigo/lms/templates/index.html:28
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:69
+msgid "Search for a course"
+msgstr "Search for a module"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/courses.html:35
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:30
+msgid "Courses"
+msgstr "Modules"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:93
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:111
+msgid "View Course"
+msgstr "View Module"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:99
+msgid "Course is full"
+msgstr "Module is full"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:102
+msgid "Enrollment in this course is by invitation only"
+msgstr "Enrollment in this module is by invitation only"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:162
+msgid "Course Number"
+msgstr "Module Number"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about.html:227
+#, python-brace-format
+msgid ""
+"You must successfully complete {link_start}{prc_display}{link_end} before "
+"you begin this course."
+msgstr ""
+"You must successfully complete {link_start}{prc_display}{link_end} before "
+"you begin this module."
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:45
+#, python-brace-format
+msgid "Take a course with {platform} online"
+msgstr "Take a module with {platform} online"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:56
+msgid "Tweet that you've enrolled in this course"
+msgstr "Tweet that you've enrolled in this module"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:62
+msgid "Post a Facebook message to say you've enrolled in this course"
+msgstr "Post a Facebook message to say you've enrolled in this module"
+
+#: tutorindigo/templates/indigo/lms/templates/courseware/course_about_sidebar_header.html:68
+msgid "Email someone to say you've enrolled in this course"
+msgstr "Email someone to say you've enrolled in this module"
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-authenticated.html:35
+msgid "My Courses"
+msgstr "My Modules"
+
+#: tutorindigo/templates/indigo/lms/templates/header/navbar-not-authenticated.html:40
+msgid "Discover courses"
+msgstr "Discover modules"
