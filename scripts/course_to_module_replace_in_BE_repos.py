@@ -47,20 +47,9 @@ def replace_course_words(text: str) -> str:
     import re
     
     # Find ALL variable placeholders and preserve them exactly
-    # This is more comprehensive - we find all {anything} patterns
+    # This handles both {variable} and %(variable)s patterns
     var_placeholders = re.findall(r'\{[^}]+\}', text)
-    
-    # Also find common course-related variable patterns that might not have braces
-    additional_patterns = [
-        'course_url', 'courseware_title_linked', 'course_name', 'course_number', 'course_title', 
-        'course_display_name', 'course_names', 'number_of_courses', 'courseName', 'course_about_url',
-        'course.display_number_with_default', 'course_mode', 'start_date', 'end_date', 'course_id'
-    ]
-    
-    # Add these to placeholders if they exist in text
-    for pattern in additional_patterns:
-        if pattern in text:
-            var_placeholders.append(f'{{{pattern}}}')
+    var_placeholders.extend(re.findall(r'%\([^)]+\)s', text))
     
     # Create temporary placeholders for all variables
     placeholders = {}
