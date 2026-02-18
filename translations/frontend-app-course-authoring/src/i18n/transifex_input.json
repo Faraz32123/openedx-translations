@@ -1737,5 +1737,6 @@
   "problemEditor.settings.tolerance.type.number": "Number",
   "problemEditor.settings.tolerance.type.none": "None",
   "course-authoring.studio-home.add-new-course.btn.text": "New module",
-  "course-authoring.studio-home.courses.tab.title": "Modules"
+  "course-authoring.studio-home.courses.tab.title": "Modules",
+  "course-authoring.studio-home.btn.re-run.text": "Re-run module"
 }
